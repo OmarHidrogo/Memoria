@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Memoria</string>
+    <string name="tvTitulo">Manejo de Momeria</string>
+    <string name="hintNombre">Nombre</string>
+    <string name="btnGuardar">Guardar Archivo</string>
+    <string name="hintCorreo">Correo</string>
+    <string name="btnGuardarPreferencia">Guardar Preferencia</string>
+    <string name="btnMostrarPreferencia">Mostrar Preferencia</string>
+</resources>
